@@ -1,0 +1,67 @@
+2025-08-11T16:15:55.141Z : 
+    App started 
+2025-08-11T16:15:55.152Z : 
+    App event occured 
+2025-08-11T16:15:58.141Z : 
+    Current mem usage: 9.33 
+2025-08-11T16:16:01.152Z : 
+    Current mem usage: 9.18 
+2025-08-11T16:16:04.159Z : 
+    Current mem usage: 9.18 
+2025-08-11T16:16:07.161Z : 
+    Current mem usage: 9.80 
+2025-08-11T16:16:10.165Z : 
+    Current mem usage: 9.57 
+2025-08-11T16:16:13.179Z : 
+    Current mem usage: 9.49 
+2025-08-11T16:16:16.195Z : 
+    Current mem usage: 9.58 
+2025-08-11T16:16:19.195Z : 
+    Current mem usage: 9.65 
+2025-08-11T16:16:22.199Z : 
+    Current mem usage: 9.57 
+2025-08-11T16:16:25.207Z : 
+    Current mem usage: 9.62 
+2025-08-11T16:16:28.206Z : 
+    Current mem usage: 9.64 
+2025-08-11T16:16:31.218Z : 
+    Current mem usage: 9.68 
+2025-08-11T16:16:34.228Z : 
+    Current mem usage: 9.10 
+2025-08-11T16:16:37.237Z : 
+    Current mem usage: 9.04 
+2025-08-11T16:16:40.249Z : 
+    Current mem usage: 9.18 
+2025-08-11T16:16:43.255Z : 
+    Current mem usage: 9.36 
+2025-08-11T16:16:46.269Z : 
+    Current mem usage: 9.61 
+2025-08-11T16:16:49.271Z : 
+    Current mem usage: 9.86 
+2025-08-11T16:16:52.276Z : 
+    Current mem usage: 8.38 
+2025-08-11T16:16:55.287Z : 
+    Current mem usage: 8.25 
+2025-08-11T16:16:58.294Z : 
+    Current mem usage: 9.29 
+2025-08-11T16:17:01.307Z : 
+    Current mem usage: 9.31 
+2025-08-11T16:17:04.321Z : 
+    Current mem usage: 9.15 
+2025-08-11T16:17:07.331Z : 
+    Current mem usage: 9.50 
+2025-08-11T16:17:10.338Z : 
+    Current mem usage: 9.57 
+
+2025-08-11T16:17:49.452Z : 
+    Current mem usage: 10.48 
+2025-08-11T16:17:52.466Z : 
+    Current mem usage: 10.32 
+2025-08-11T16:17:55.466Z : 
+    Current mem usage: 10.25 
+2025-08-11T16:17:58.478Z : 
+    Current mem usage: 10.46 
+2025-08-11T16:18:01.481Z : 
+    Current mem usage: 10.21 
+2025-08-11T16:18:04.490Z : 
+    Current mem usage: 9.99 
